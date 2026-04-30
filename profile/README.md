@@ -45,6 +45,18 @@ Rayford AI starts from a narrow, practical question:
 That is the first wedge. The broader mission is to help every exposed property
 become more ready, assessable, and recoverable.
 
+## Watch the 3-Minute Founder Overview
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Dpq78u4HR_Q">
+    <img src="https://rayford-ai.com/assets/demo/ray-assess-demo-poster.png" alt="Watch Rayford AI founder overview video" width="720">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Dpq78u4HR_Q"><strong>▶ Watch on YouTube</strong></a>
+</p>
+
 ## Research Origin
 
 Rayford AI grows out of GeoAI and disaster-resilience research at Texas A&M,
