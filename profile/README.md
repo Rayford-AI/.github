@@ -84,6 +84,7 @@ released.
 ## Links
 
 - Website: [rayford-ai.com](https://rayford-ai.com)
+- GitHub: [Rayford-AI](https://github.com/Rayford-AI)
 - LinkedIn: [Rayford AI](https://www.linkedin.com/company/rayford-ai)
 - Contact: [contact@rayford-ai.com](mailto:contact@rayford-ai.com)
 
