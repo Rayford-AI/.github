@@ -5,81 +5,68 @@
 </p>
 
 <p align="center">
-  <strong>A guided crossing through climate risk and disaster recovery.</strong>
+  <strong>Geospatial Physical AI &nbsp;·&nbsp; The intelligence layer for the physical world.</strong>
 </p>
 
-Rayford AI builds **Ray**, a property-level resilience intelligence platform for
-disaster damage assessment, recovery decisions, and future climate-risk
-readiness.
+Rayford AI builds **Ray**, a geospatial physical AI system for auditable property and
+infrastructure intelligence across disaster, resilience, and real-world operations.
 
-Our first product focus is **Ray Assess**: turning post-disaster imagery,
-property context, and model evidence into review-ready damage assessment for
-local governments, emergency managers, GIS teams, and recovery partners.
+Ray turns remote sensing, street-level imagery, and geospatial context into
+**auditable intelligence** for disaster, infrastructure, and property decisions.
 
-## What We Are Building
+## The Ray Platform
 
-**Ray Assess** helps teams understand what changed after a disaster, which
-properties need attention first, and what evidence supports that judgment.
+**Start with disaster. Build toward physical-world intelligence.**
 
-**Ray Claims** extends the same evidence package into claims and inspection
-triage after the public-sector assessment workflow is validated.
+Ray is an intelligence system for real-world perception, evidence, and action —
+beginning with the most urgent workflow in property decisions: what changed after
+a disaster, and what it means.
 
-**Ray Risk** connects damage evidence with local hazard history, mitigation
-priorities, and grant or recovery documentation.
+| Module | Focus |
+|---|---|
+| **Ray Assess** | Property-level damage evidence — compare pre/post imagery, score visible damage, attach evidence, and surface confidence at the parcel level for auditable assessment workflows. |
+| **Ray Claims** | Claims and inspection triage — rank properties for adjuster review and package imagery, metadata, and explanations for faster, more defensible insurance claim workflows. |
+| **Ray Risk** | Hazard context and mitigation intelligence — connect damage evidence with hazard context, mitigation priorities, and resilience planning for properties and critical infrastructure. |
 
-Long term, Rayford AI aims to become the property-level evidence layer for
-resilience: one place to connect hazard history, post-event imagery, model
-confidence, and human review.
+## How It Works
 
-## Why It Matters
+1. **Link world context** — Parcel records, hazard context, built-environment data, and pre-event imagery assembled for the target area.
+2. **Compare multimodal evidence** — Street-view, satellite, drone, and field imagery across time, fused and aligned at the property level.
+3. **Arbitrate model signals** — Damage scoring, multimodal reasoning, and confidence estimates via Ray's CLIP-enhanced arbitration layer.
+4. **Export audit trail** — Action-ready evidence packages with scores, confidence, and imagery for downstream human review.
 
-Disaster recovery is still slowed by fragmented imagery, manual inspection
-queues, inconsistent documentation, and uncertainty over what happened to each
-property.
+## Research Foundation
 
-Rayford AI starts from a narrow, practical question:
+Ray's engine translates peer-reviewed GeoAI research into a practical intelligence layer.
 
-> Given a property after a disaster, can Ray produce a damage score, confidence,
-> and evidence trail fast enough for a human team to act?
+- **IGARSS 2026** — *Satellite-to-Street: Synthesizing Post-Disaster Views from Satellite Imagery*
+- **2026 Preprint** — *DamageArbiter: CLIP-Enhanced Multimodal Arbitration for Hurricane Damage Assessment*
+- **Computers, Environment and Urban Systems 2025** — *Hyperlocal Disaster Damage Assessment Using Bi-temporal Street-view Imagery*
+- **ICC 2025 · Best Student Paper** — *DisasterVLP: Perceiving Multidimensional Disaster Damages via Visual-Language Models*
+- **Applied Sciences 2024** — *GeoLocator: A Location-Integrated Large Multimodal Model for Geo-Privacy Inference*
+- **Esri Press** — *Object Detection and Segmentation Using Text SAM in ArcGIS Online*
 
-That is the first wedge. The broader mission is to help every exposed property
-become more ready, assessable, and recoverable.
+Public research context is available at [AutoGeoAI4Sci](https://autogeoai4sci.github.io/).
 
-## Watch the 3-Minute Founder Overview
+## Team
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=Dpq78u4HR_Q">
-    <img src="https://rayford-ai.com/assets/demo/ray-assess-demo-poster.png" alt="Watch Rayford AI founder overview video" width="720">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=Dpq78u4HR_Q"><strong>▶ Watch on YouTube</strong></a>
-</p>
-
-## Research Origin
-
-Rayford AI grows out of GeoAI and disaster-resilience research at Texas A&M,
-including work on street-view disaster assessment, multimodal damage perception,
-satellite-to-street generation, and model arbitration for hurricane damage
-assessment.
-
-Public research context is available at
-[AutoGeoAI4Sci](https://autogeoai4sci.github.io/).
+| | |
+|---|---|
+| **Yifan Yang** — Founder & Technical Lead | Multimodal spatial intelligence, street-view analysis, model arbitration, and autonomous GeoAI systems. |
+| **Dr. Lei Zou** — Scientific & Technical Advisor | GeoAI and spatial-intelligence foundation; disaster resilience direction. Texas A&M. |
+| **Dr. Zhengzhong Tu** — Technical Advisor | Computer vision, multimodal model design, and validation strategy. |
+| **Dr. Heng Cai** — Technical Advisor | Built environment context, infrastructure intelligence, and product-risk review. |
 
 ## Repository Policy
 
 This organization separates public company material from private venture work.
 
-- Public repositories may include company profiles, website-facing assets,
-  public documentation, and selected research links.
-- Private repositories hold product code, internal strategy, customer discovery,
-  model workflows, data pipelines, and other proprietary work.
+- **Public repositories** may include company profiles, website-facing assets, public documentation, and selected research links.
+- **Private repositories** hold product code, internal strategy, customer discovery, model workflows, data pipelines, and other proprietary work.
 
 Rayford AI is not an open-source project by default. Public materials are shared
 for visibility, evaluation, and collaboration conversations; proprietary code,
-data, designs, and venture materials remain protected unless explicitly
-released.
+data, designs, and venture materials remain protected unless explicitly released.
 
 ## Links
 
