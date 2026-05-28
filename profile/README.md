@@ -1,7 +1,7 @@
 # Rayford AI
 
 <p align="center">
-  <img src="./assets/rayford-logo-github.png" alt="Rayford AI logo" width="220">
+  <img src="./assets/logo-mark.svg" alt="Rayford AI logo" width="120">
 </p>
 
 <p align="center">
