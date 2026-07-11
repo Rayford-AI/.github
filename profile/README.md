@@ -32,21 +32,6 @@ Current organization view, as of July 11, 2026:
 Public links work for anyone. Repositories marked **access required** are
 private in the Rayford AI organization and require collaborator access.
 
-## Ray Platform
-
-Ray starts with disaster because disaster response exposes the hardest version
-of the property-intelligence problem: evidence is incomplete, imagery arrives
-at different times, models disagree, and human reviewers still need defensible
-decisions.
-
-| Module | What it does |
-| --- | --- |
-| **Ray Watch** | Monitor public hazard sources before and during events; preserve sourced event snapshots and declared unknowns. |
-| **Ray Assess** | Turn pre-event and post-event imagery into property-level damage evidence, confidence, and review actions. |
-| **Ray Claims** | Rank properties for adjuster review and package imagery, metadata, explanations, and uncertainty. |
-| **Ray Risk** | Connect hazard history, built-environment context, and mitigation priorities for resilience planning. |
-| **Ray Recover** | Track recovery status, evidence gaps, assistance needs, and community-scale resilience indicators. |
-
 ## Repository Map
 
 ### Public Repositories
