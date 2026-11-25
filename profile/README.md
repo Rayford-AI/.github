@@ -15,7 +15,7 @@
 
 ## Featured
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 <a href="https://rayford295.github.io/ray-resilience/"><img src="./assets/featured/ray-resilience.webp" alt="RAY web app"></a><br>
@@ -83,13 +83,13 @@ From what we read to what it became.
 
 ## People
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="20%"><img src="./assets/people/yifan-yang.png" width="100" alt="Yifan Yang"><br><b>Yifan Yang</b><br>杨一帆<br><sub>Lab Lead · Ph.D. Candidate</sub></td>
-<td align="center" width="20%"><img src="./assets/people/lei-zou.png" width="100" alt="Lei Zou"><br><b>Dr. Lei Zou</b><br>邹雷<br><sub>Ph.D. Committee</sub></td>
-<td align="center" width="20%"><img src="./assets/people/zhengzhong-tu.png" width="100" alt="Zhengzhong Tu"><br><b>Dr. Zhengzhong Tu</b><br>涂正中<br><sub>Ph.D. Committee</sub></td>
-<td align="center" width="20%"><img src="./assets/people/heng-cai.png" width="100" alt="Heng Cai"><br><b>Dr. Heng Cai</b><br>蔡恒<br><sub>Ph.D. Committee</sub></td>
-<td align="center" width="20%"><img src="./assets/people/andrew-klein.png" width="100" alt="Andrew Klein"><br><b>Dr. Andrew Klein</b><br>&nbsp;<br><sub>Ph.D. Committee</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/yifan-yang.png" width="100" alt="Yifan Yang"><br><b>Yifan Yang</b><br>杨一帆<br><sub>Lab Lead<br>Ph.D. Candidate</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/lei-zou.png" width="100" alt="Lei Zou"><br><b>Dr. Lei Zou</b><br>邹雷<br><sub>Ph.D. Committee</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/zhengzhong-tu.png" width="100" alt="Zhengzhong Tu"><br><b>Dr. Zhengzhong Tu</b><br>涂正中<br><sub>Ph.D. Committee</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/heng-cai.png" width="100" alt="Heng Cai"><br><b>Dr. Heng Cai</b><br>蔡恒<br><sub>Ph.D. Committee</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/andrew-klein.png" width="100" alt="Andrew Klein"><br><b>Dr. Andrew Klein</b><br>&nbsp;<br><sub>Ph.D. Committee</sub></td>
 </tr>
 </table>
 
