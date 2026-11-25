@@ -85,11 +85,11 @@ From what we read to what it became.
 
 <table width="100%">
 <tr>
-<td align="center" valign="top" width="20%"><img src="./assets/people/yifan-yang.png" width="100" alt="Yifan Yang"><br><b>Yifan Yang</b><br>杨一帆<br><sub>Lab Lead<br>Ph.D. Candidate</sub></td>
-<td align="center" valign="top" width="20%"><img src="./assets/people/lei-zou.png" width="100" alt="Lei Zou"><br><b>Dr. Lei Zou</b><br>邹雷<br><sub>Ph.D. Committee</sub></td>
-<td align="center" valign="top" width="20%"><img src="./assets/people/zhengzhong-tu.png" width="100" alt="Zhengzhong Tu"><br><b>Dr. Zhengzhong Tu</b><br>涂正中<br><sub>Ph.D. Committee</sub></td>
-<td align="center" valign="top" width="20%"><img src="./assets/people/heng-cai.png" width="100" alt="Heng Cai"><br><b>Dr. Heng Cai</b><br>蔡恒<br><sub>Ph.D. Committee</sub></td>
-<td align="center" valign="top" width="20%"><img src="./assets/people/andrew-klein.png" width="100" alt="Andrew Klein"><br><b>Dr. Andrew Klein</b><br>&nbsp;<br><sub>Ph.D. Committee</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/yifan-yang.png" width="100" alt="Yifan Yang"><br><b>Yifan&nbsp;Yang</b><br>杨一帆<br><sub>Lab Lead<br>Ph.D. Candidate</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/lei-zou.png" width="100" alt="Lei Zou"><br><b>Dr.&nbsp;Lei&nbsp;Zou</b><br>邹雷<br><sub>Ph.D.&nbsp;Committee</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/zhengzhong-tu.png" width="100" alt="Zhengzhong Tu"><br><b>Dr.&nbsp;Zhengzhong&nbsp;Tu</b><br>涂正中<br><sub>Ph.D.&nbsp;Committee</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/heng-cai.png" width="100" alt="Heng Cai"><br><b>Dr.&nbsp;Heng&nbsp;Cai</b><br>蔡恒<br><sub>Ph.D.&nbsp;Committee</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/andrew-klein.png" width="100" alt="Andrew Klein"><br><b>Dr.&nbsp;Andrew&nbsp;Klein</b><br>&nbsp;<br><sub>Ph.D.&nbsp;Committee</sub></td>
 </tr>
 </table>
 
