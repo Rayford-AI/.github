@@ -1,160 +1,75 @@
-# Rayford AI
+# Rayford AI Lab
 
 <p align="center">
-  <img src="./assets/rayford-logo-github.png" alt="Rayford AI logo" width="180">
+  <img src="./assets/rayford-logo-github.png" alt="Rayford AI Lab logo" width="170">
 </p>
 
 <p align="center">
-  <strong>Geospatial Physical AI for disaster evidence, resilience intelligence, and auditable property decisions.</strong>
+  <strong>Seeing disasters from every view.</strong><br>
+  Geospatial AI that reads satellite, street-view and drone imagery, explains what it sees, and shows the evidence behind every number.<br>
+  从每一个视角看见灾害：读懂卫星、街景与无人机影像，并给出每个数字背后的证据。
 </p>
 
-Rayford AI builds **Ray**, a geospatial AI system that connects remote sensing,
-street-level imagery, hazard context, and multimodal reasoning into
-property-level evidence for disaster assessment, claims triage, and resilience
-planning.
+<p align="center">
+  <a href="https://rayford-ai.com"><b>rayford-ai.com</b></a> ·
+  <a href="https://rayford295.github.io/ray-resilience/">Live demo</a> ·
+  <a href="https://autogeoai4sci.github.io/">AutoGeoAI4Sci</a> ·
+  <a href="mailto:contact@rayford-ai.com">contact@rayford-ai.com</a>
+</p>
 
-The organization is now structured as a research-to-product workspace: public
-repositories show the scientific foundation, private advisor-access
-repositories hold active disaster datasets and experiments, and product
-workspaces translate the research into Ray workflows.
+## Featured
 
-## Organization Snapshot
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://rayford295.github.io/ray-resilience/"><img src="https://rayford-ai.com/assets/projects/ray-resilience.webp" alt="RAY web app"></a><br>
+<b><a href="https://github.com/Rayford-AI/ray-resilience">RAY · Ray Resilience</a></b><br>
+<sub>ACM SIGSPATIAL 2026 · OASIS</sub><br>
+An accountable GeoAI agent for place-based disaster intelligence.
+</td>
+<td width="33%" valign="top">
+<a href="https://rayford295.github.io/CrossViewGate/"><img src="https://rayford-ai.com/assets/projects/crossviewgate.webp" alt="CrossViewGate"></a><br>
+<b><a href="https://github.com/Rayford-AI/CrossViewGate">CrossViewGate</a></b><br>
+<sub>GeoSearch ’26 · ACM SIGSPATIAL</sub><br>
+Trust the view that actually sees the damage.
+</td>
+<td width="33%" valign="top">
+<a href="https://rayford295.github.io/drone-compression-hpc/"><img src="https://rayford-ai.com/assets/projects/drone.webp" alt="Drone imagery reconstruction"></a><br>
+<b><a href="https://github.com/Rayford-AI/drone-compression-hpc">Drone Compression on HPC</a></b><br>
+<sub>SC26 · Poster</sub><br>
+Full-resolution drone imagery on GPU supercomputers.
+</td>
+</tr>
+</table>
 
-Current organization view, as of July 11, 2026:
+## Projects
 
-| Area | Status |
-| --- | --- |
-| Public surface | Organization profile, website, and selected research repositories. |
-| Advisor-access research | Private imports for datasets, cross-view reliability, preparedness, and disaster-agent pipelines. |
-| Product and operations | Private Rayford AI company, product, and operating workspaces. |
-| Main technical theme | Auditable disaster intelligence from street-view, satellite, aerial, and geospatial evidence. |
+| Theme | Project | Venue | Links |
+| --- | --- | --- | --- |
+| Damage assessment | [CrossViewGate](https://github.com/Rayford-AI/CrossViewGate) | GeoSearch ’26 | [Demo](https://rayford295.github.io/CrossViewGate/) · [Paper](https://dl.acm.org/doi/10.1145/3849732.3857333) |
+| | [DamageArbiter](https://github.com/Rayford-AI/DamageArbiter) | arXiv 2026 | [Paper](https://arxiv.org/abs/2603.14837) |
+| | [Bi-Temporal-StreetView](https://github.com/Rayford-AI/Bi-Temporal-StreetView) | CEUS 2025 | [Paper](https://doi.org/10.1016/j.compenvurbsys.2025.102335) |
+| | [DisasterVLP](https://github.com/Rayford-AI/DisasterVLP) | ICC 2025 · Best Student Paper | [Paper](https://doi.org/10.5194/ica-abs-10-310-2025) |
+| | [debris-estimate](https://github.com/Rayford-AI/debris-estimate) | In progress | |
+| Generative AI | [Sat2Street-DisasterGen](https://github.com/Rayford-AI/Sat2Street-DisasterGen) | IGARSS 2026 | [Paper](https://arxiv.org/abs/2603.20697) |
+| | [GenAI4Dresilience](https://github.com/Rayford-AI/GenAI4Dresilience) | CRC Press chapter | [Demo](https://rayford295.github.io/GenAI4Dresilience/) |
+| | PrepStreet | Extended abstract 2026 | [Demo](https://rayford295.github.io/PrepStreet/) |
+| Agents & LMMs | [ray-resilience](https://github.com/Rayford-AI/ray-resilience) | ACM SIGSPATIAL 2026 | [Demo](https://rayford295.github.io/ray-resilience/) |
+| | [RAPID](https://github.com/Rayford-AI/RAPID) | arXiv 2026 | [Paper](https://arxiv.org/abs/2606.21819) |
+| | [GeoLocator](https://github.com/Rayford-AI/GeoLocator) | Applied Sciences 2024 | [Paper](https://www.mdpi.com/2076-3417/14/16/7091) |
+| Mapping & HPC | [drone-compression-hpc](https://github.com/Rayford-AI/drone-compression-hpc) | SC26 Poster | [Demo](https://rayford295.github.io/drone-compression-hpc/) |
+| | [vgi-spatial-bias](https://github.com/Rayford-AI/vgi-spatial-bias) | I-GUIDE 2026 | [Demo](https://rayford295.github.io/vgi-spatial-bias/) |
+| | [ArcGIS-SAM-TreeSegmentation](https://github.com/Rayford-AI/ArcGIS-SAM-TreeSegmentation) | Esri Press | |
+| | Geothermal Awareness (GATES) | DOE project | [Demo](https://rayford295.github.io/geothermal-awareness/) |
+| Resources | [awesome-autonomous-geoai](https://github.com/Rayford-AI/awesome-autonomous-geoai) | Curated list | [Site](https://autogeoai4sci.github.io/) |
+| | [awesome-3dgs-geoai](https://github.com/Rayford-AI/awesome-3dgs-geoai) | Curated list · EN/中文 | |
+| | [rayford-knowledge-atlas](https://github.com/Rayford-AI/rayford-knowledge-atlas) | Interactive graph | [Demo](https://rayford295.github.io/rayford-knowledge-atlas/) |
 
-Public links work for anyone. Repositories marked **access required** are
-private in the Rayford AI organization and require collaborator access.
+## People
 
-## Repository Map
+**Yifan Yang**, lab lead, Ph.D. Candidate · **Dr. Lei Zou**, scientific advisor ·
+**Dr. Zhengzhong Tu**, technical advisor · **Dr. Heng Cai**, technical advisor
 
-### Public Repositories
+<sub>Most repositories here are forks of the originals under <a href="https://github.com/rayford295">rayford295</a> and are kept in sync. Each carries its own license.</sub>
 
-| Repository | Role |
-| --- | --- |
-| [.github](https://github.com/Rayford-AI/.github) | Organization profile and shared public identity. |
-| [Rayford-AI.github.io](https://github.com/Rayford-AI/Rayford-AI.github.io) | Public website for Rayford AI. |
-| [Bi-Temporal-StreetView](https://github.com/Rayford-AI/Bi-Temporal-StreetView) | Hyperlocal hurricane damage assessment from paired pre/post street-view imagery. |
-| [DamageArbiter](https://github.com/Rayford-AI/DamageArbiter) | CLIP-enhanced multimodal arbitration for street-view disaster damage assessment. |
-| [Sat2Street-DisasterGen](https://github.com/Rayford-AI/Sat2Street-DisasterGen) | Generative satellite-to-street framework for post-disaster street-view synthesis. |
-| [RAPID](https://github.com/Rayford-AI/RAPID) | Reproducible multi-agent pipeline for interpretable disaster damage assessment from satellite and street-view imagery. |
-| [GenAI4Dresilience](https://github.com/Rayford-AI/GenAI4Dresilience) | Publication-safe companion for generative AI across the disaster-resilience lifecycle. |
-
-### Advisor-Access Repositories
-
-| Repository | Role |
-| --- | --- |
-| [disaster-crossview-datasets](https://github.com/Rayford-AI/disaster-crossview-datasets) | Curated index for wildfire, hurricane, and paired cross-view disaster datasets; **access required**. |
-| [CrossViewGate](https://github.com/Rayford-AI/CrossViewGate) | Visibility-conditioned reliability gating for street-view and overhead damage assessment; **access required**. |
-| [PrepStreet](https://github.com/Rayford-AI/PrepStreet) | Preparedness-oriented street-view analysis linked with hurricane forecasts, spatial context, and hazard features; **access required**. |
-| [DisasterPilot](https://github.com/Rayford-AI/DisasterPilot) | Multi-agent event pipeline from public disaster watch to dossier, exposure, evidence, and decision products; **access required**. |
-| [rayford-ai](https://github.com/Rayford-AI/rayford-ai) | Company workspace, brand, website material, and product-roadmap notes; **access required**. |
-| hermes-work-manual | Internal operating manual for company workflows; **access required**. |
-
-## Disaster Research Stack
-
-The imported disaster projects now form a coherent stack rather than isolated
-repositories:
-
-| Layer | Repositories | Research question |
-| --- | --- | --- |
-| Data foundation | disaster-crossview-datasets, Bi-Temporal-StreetView | What imagery, metadata, labels, and provenance are available across wildfire, hurricane, and multi-hazard settings? |
-| Street-level damage perception | Bi-Temporal-StreetView, DamageArbiter | How much does pre-event context improve property-level damage assessment, and how can visual-language signals make results interpretable? |
-| Cross-view reliability | CrossViewGate, RAPID | When street-view and overhead evidence disagree, which view should be trusted and when should the system defer? |
-| Generative evidence support | Sat2Street-DisasterGen, GenAI4Dresilience | Can generative models support scenario reasoning or missing-view analysis without being mistaken for observed evidence? |
-| Preparedness modeling | PrepStreet | Can pre-disaster street-view, hazard forecasts, and spatial context anticipate likely post-event damage patterns? |
-| Operational agents | DisasterPilot, RAPID | How can public event monitoring, exposure modeling, evidence assembly, and decision support become an auditable pipeline? |
-
-## Advisor Reading Path
-
-For a fast review:
-
-1. Start with **disaster-crossview-datasets** to understand the data inventory,
-   storage policy, and disaster coverage.
-2. Read **Bi-Temporal-StreetView** and **DamageArbiter** for the street-view
-   damage-assessment foundation.
-3. Read **CrossViewGate** for the current reliability problem: conflict-aware
-   cross-view damage assessment.
-4. Read **PrepStreet** for the preparedness and pre-event modeling direction.
-5. Read **DisasterPilot** for the end-to-end event workflow from public watch
-   to decision products.
-6. Use **RAPID**, **Sat2Street-DisasterGen**, and **GenAI4Dresilience** as the
-   broader GenAI and multi-agent research context.
-
-## Technical Principles
-
-Rayford AI's disaster work is guided by a few non-negotiables:
-
-- **Auditable outputs:** Every score should point back to imagery, metadata,
-  source files, assumptions, and confidence.
-- **View-aware reasoning:** Street-view, satellite, aerial, drone, and field
-  imagery are not interchangeable; each view has its own failure modes.
-- **Fail-closed behavior:** Missing imagery or missing metadata should produce
-  a recorded evidence gap, not a fabricated answer.
-- **Human review:** Ray should prioritize and explain evidence, not replace
-  final claims, emergency-management, or recovery decisions.
-- **Data discipline:** Raw imagery, protected datasets, and large generated
-  artifacts stay private or local unless their license and review status allow
-  public release.
-
-## Research Foundation
-
-Selected public research lines behind Ray include:
-
-- **Computers, Environment and Urban Systems 2025:** Hyperlocal disaster damage
-  assessment using bi-temporal street-view imagery.
-- **2026 preprint:** DamageArbiter, a CLIP-enhanced multimodal arbitration
-  framework for hurricane damage assessment.
-- **IGARSS 2026:** Satellite-to-Street, synthesizing post-disaster street views
-  from satellite imagery via generative vision models.
-- **RAPID:** A reproducible multi-agent pipeline for interpretable disaster
-  damage assessment from satellite and street-view imagery.
-- **GenAI4Dresilience:** Generative AI for mitigation, preparedness, response,
-  and recovery.
-
-Public research context is also available at
-[AutoGeoAI4Sci](https://autogeoai4sci.github.io/).
-
-## Team
-
-| Member | Role |
-| --- | --- |
-| **Yifan Yang** | Founder and Technical Lead; multimodal spatial intelligence, street-view analysis, model arbitration, and autonomous GeoAI systems. |
-| **Dr. Lei Zou** | Scientific and Technical Advisor; GeoAI, spatial intelligence, and disaster resilience direction at Texas A&M University. |
-| **Dr. Zhengzhong Tu** | Technical Advisor; computer vision, multimodal model design, and validation strategy. |
-| **Dr. Heng Cai** | Technical Advisor; built environment context, infrastructure intelligence, and product-risk review. |
-
-## Repository Policy
-
-Rayford AI separates public visibility from private product and research
-development.
-
-- Public repositories may include company profiles, website assets,
-  publication-safe research code, selected demos, and collaboration-facing
-  summaries.
-- Private repositories hold active experiments, dataset indexes, product code,
-  customer discovery, pilot materials, and operating workflows.
-- Public repository licenses apply only to the repository-authored materials
-  they cover. Underlying third-party imagery, datasets, model outputs, and
-  protected records remain subject to their own terms.
-
-Rayford AI is not an open-source project by default. Public materials are shared
-for visibility, evaluation, advisor review, and research collaboration;
-proprietary product work remains protected unless explicitly released.
-
-## Links
-
-- Website: [rayford-ai.com](https://rayford-ai.com)
-- GitHub: [Rayford-AI](https://github.com/Rayford-AI)
-- LinkedIn: [Rayford AI](https://www.linkedin.com/company/rayford-ai)
-- Contact: [contact@rayford-ai.com](mailto:contact@rayford-ai.com)
-
----
-
-**Every property, ready and recoverable.**
+<p align="center"><i>Every place, ready and recoverable.</i></p>
