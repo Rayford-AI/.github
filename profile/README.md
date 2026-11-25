@@ -18,19 +18,19 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://rayford295.github.io/ray-resilience/"><img src="https://rayford-ai.com/assets/projects/ray-resilience.webp" alt="RAY web app"></a><br>
+<a href="https://rayford295.github.io/ray-resilience/"><img src="./assets/featured/ray-resilience.webp" alt="RAY web app"></a><br>
 <b><a href="https://github.com/Rayford-AI/ray-resilience">RAY · Ray Resilience</a></b><br>
 <sub>ACM SIGSPATIAL 2026 · OASIS</sub><br>
 An accountable GeoAI agent for place-based disaster intelligence.
 </td>
 <td width="33%" valign="top">
-<a href="https://rayford295.github.io/CrossViewGate/"><img src="https://rayford-ai.com/assets/projects/crossviewgate.webp" alt="CrossViewGate"></a><br>
+<a href="https://rayford295.github.io/CrossViewGate/"><img src="./assets/featured/crossviewgate.webp" alt="CrossViewGate"></a><br>
 <b><a href="https://github.com/Rayford-AI/CrossViewGate">CrossViewGate</a></b><br>
 <sub>GeoSearch ’26 · ACM SIGSPATIAL</sub><br>
 Trust the view that actually sees the damage.
 </td>
 <td width="33%" valign="top">
-<a href="https://rayford295.github.io/drone-compression-hpc/"><img src="https://rayford-ai.com/assets/projects/drone.webp" alt="Drone imagery reconstruction"></a><br>
+<a href="https://rayford295.github.io/drone-compression-hpc/"><img src="./assets/featured/drone.webp" alt="Drone imagery reconstruction"></a><br>
 <b><a href="https://github.com/Rayford-AI/drone-compression-hpc">Drone Compression on HPC</a></b><br>
 <sub>SC26 · Poster</sub><br>
 Full-resolution drone imagery on GPU supercomputers.
@@ -38,19 +38,19 @@ Full-resolution drone imagery on GPU supercomputers.
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://rayford295.github.io/PrepStreet/"><img src="https://rayford-ai.com/assets/projects/prepstreet.webp" alt="PrepStreet generated street views"></a><br>
+<a href="https://rayford295.github.io/PrepStreet/"><img src="./assets/featured/prepstreet.webp" alt="PrepStreet generated street views"></a><br>
 <b><a href="https://rayford295.github.io/PrepStreet/">PrepStreet</a></b><br>
 <sub>Extended abstract · 2026</sub><br>
 Seeing hurricane damage before it happens.
 </td>
 <td width="33%" valign="top">
-<a href="https://rayford295.github.io/vgi-spatial-bias/"><img src="https://rayford-ai.com/assets/projects/vgi.webp" alt="Buildings detected from remote sensing"></a><br>
+<a href="https://rayford295.github.io/vgi-spatial-bias/"><img src="./assets/featured/vgi.webp" alt="Buildings detected from remote sensing"></a><br>
 <b><a href="https://github.com/Rayford-AI/vgi-spatial-bias">VGI Spatial Bias</a></b><br>
 <sub>I-GUIDE 2026</sub><br>
 Finding the gaps in OpenStreetMap across 102 counties.
 </td>
 <td width="33%" valign="top">
-<a href="https://rayford295.github.io/rayford-knowledge-atlas/"><img src="https://rayford-ai.com/assets/projects/atlas.webp" alt="Knowledge atlas graph"></a><br>
+<a href="https://rayford295.github.io/rayford-knowledge-atlas/"><img src="./assets/featured/atlas.webp" alt="Knowledge atlas graph"></a><br>
 <b><a href="https://github.com/Rayford-AI/rayford-knowledge-atlas">Knowledge Atlas</a></b><br>
 <sub>Interactive graph</sub><br>
 From what we read to what it became.
