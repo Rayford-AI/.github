@@ -83,9 +83,9 @@ From what we read to what it became.
 
 ## People
 
-| <img src="https://rayford-ai.com/assets/team/yifan-yang.png" width="96" alt="Yifan Yang"> | <img src="https://rayford-ai.com/assets/team/lei-zou.jpeg" width="96" alt="Lei Zou"> | <img src="https://rayford-ai.com/assets/team/zhengzhong-tu.jpeg" width="96" alt="Zhengzhong Tu"> | <img src="https://rayford-ai.com/assets/team/heng-cai.jpeg" width="96" alt="Heng Cai"> |
-| :---: | :---: | :---: | :---: |
-| **Yifan Yang** 杨一帆<br><sub>Lab Lead · Ph.D. Candidate</sub> | **Dr. Lei Zou** 邹雷<br><sub>Scientific Advisor</sub> | **Dr. Zhengzhong Tu** 涂正中<br><sub>Technical Advisor</sub> | **Dr. Heng Cai** 蔡恒<br><sub>Technical Advisor</sub> |
+| <img src="https://rayford-ai.com/assets/team/yifan-yang.png" width="96" alt="Yifan Yang"> | <img src="https://rayford-ai.com/assets/team/lei-zou.jpeg" width="96" alt="Lei Zou"> | <img src="https://rayford-ai.com/assets/team/zhengzhong-tu.jpeg" width="96" alt="Zhengzhong Tu"> | <img src="https://rayford-ai.com/assets/team/heng-cai.jpeg" width="96" alt="Heng Cai"> | <img src="https://rayford-ai.com/assets/team/andrew-klein.jpeg" width="96" alt="Andrew Klein"> |
+| :---: | :---: | :---: | :---: | :---: |
+| **Yifan Yang** 杨一帆<br><sub>Lab Lead · Ph.D. Candidate</sub> | **Dr. Lei Zou** 邹雷<br><sub>Ph.D. Committee</sub> | **Dr. Zhengzhong Tu** 涂正中<br><sub>Ph.D. Committee</sub> | **Dr. Heng Cai** 蔡恒<br><sub>Ph.D. Committee</sub> | **Dr. Andrew Klein**<br><sub>Ph.D. Committee</sub> |
 
 <sub>Most repositories here are forks of the originals under <a href="https://github.com/rayford295">rayford295</a> and are kept in sync. Each carries its own license.</sub>
 
