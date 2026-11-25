@@ -1,20 +1,16 @@
-# Rayford AI Lab
+<a href="https://rayford-ai.com"><img src="./assets/banner.gif" alt="Rayford AI Lab: seeing disasters from every view" width="100%"></a>
 
 <p align="center">
-  <img src="./assets/rayford-logo-github.png" alt="Rayford AI Lab logo" width="170">
-</p>
-
-<p align="center">
-  <strong>Seeing disasters from every view.</strong><br>
   Geospatial AI that reads satellite, street-view and drone imagery, explains what it sees, and shows the evidence behind every number.<br>
   从每一个视角看见灾害：读懂卫星、街景与无人机影像，并给出每个数字背后的证据。
 </p>
 
 <p align="center">
-  <a href="https://rayford-ai.com"><b>rayford-ai.com</b></a> ·
-  <a href="https://rayford295.github.io/ray-resilience/">Live demo</a> ·
-  <a href="https://autogeoai4sci.github.io/">AutoGeoAI4Sci</a> ·
-  <a href="mailto:contact@rayford-ai.com">contact@rayford-ai.com</a>
+  <a href="https://rayford-ai.com"><img src="https://img.shields.io/badge/rayford--ai.com-161412?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://rayford295.github.io/ray-resilience/"><img src="https://img.shields.io/badge/live_demos-9-2fb36a?style=for-the-badge" alt="9 live demos"></a>
+  <a href="https://rayford-ai.com/#publications"><img src="https://img.shields.io/badge/publications-11-9a1f1f?style=for-the-badge" alt="11 publications"></a>
+  <a href="https://doi.org/10.5194/ica-abs-10-310-2025"><img src="https://img.shields.io/badge/ICC_2025-Best_Student_Paper-c9962b?style=for-the-badge" alt="ICC 2025 Best Student Paper"></a>
+  <a href="mailto:contact@rayford-ai.com"><img src="https://img.shields.io/badge/contact-rayford--ai.com-5d5853?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact"></a>
 </p>
 
 ## Featured
@@ -38,6 +34,26 @@ Trust the view that actually sees the damage.
 <b><a href="https://github.com/Rayford-AI/drone-compression-hpc">Drone Compression on HPC</a></b><br>
 <sub>SC26 · Poster</sub><br>
 Full-resolution drone imagery on GPU supercomputers.
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://rayford295.github.io/PrepStreet/"><img src="https://rayford-ai.com/assets/projects/prepstreet.webp" alt="PrepStreet generated street views"></a><br>
+<b><a href="https://rayford295.github.io/PrepStreet/">PrepStreet</a></b><br>
+<sub>Extended abstract · 2026</sub><br>
+Seeing hurricane damage before it happens.
+</td>
+<td width="33%" valign="top">
+<a href="https://rayford295.github.io/vgi-spatial-bias/"><img src="https://rayford-ai.com/assets/projects/vgi.webp" alt="Buildings detected from remote sensing"></a><br>
+<b><a href="https://github.com/Rayford-AI/vgi-spatial-bias">VGI Spatial Bias</a></b><br>
+<sub>I-GUIDE 2026</sub><br>
+Finding the gaps in OpenStreetMap across 102 counties.
+</td>
+<td width="33%" valign="top">
+<a href="https://rayford295.github.io/rayford-knowledge-atlas/"><img src="https://rayford-ai.com/assets/projects/atlas.webp" alt="Knowledge atlas graph"></a><br>
+<b><a href="https://github.com/Rayford-AI/rayford-knowledge-atlas">Knowledge Atlas</a></b><br>
+<sub>Interactive graph</sub><br>
+From what we read to what it became.
 </td>
 </tr>
 </table>
@@ -67,8 +83,9 @@ Full-resolution drone imagery on GPU supercomputers.
 
 ## People
 
-**Yifan Yang**, lab lead, Ph.D. Candidate · **Dr. Lei Zou**, scientific advisor ·
-**Dr. Zhengzhong Tu**, technical advisor · **Dr. Heng Cai**, technical advisor
+| <img src="https://rayford-ai.com/assets/team/yifan-yang.png" width="96" alt="Yifan Yang"> | <img src="https://rayford-ai.com/assets/team/lei-zou.jpeg" width="96" alt="Lei Zou"> | <img src="https://rayford-ai.com/assets/team/zhengzhong-tu.jpeg" width="96" alt="Zhengzhong Tu"> | <img src="https://rayford-ai.com/assets/team/heng-cai.jpeg" width="96" alt="Heng Cai"> |
+| :---: | :---: | :---: | :---: |
+| **Yifan Yang** 杨一帆<br><sub>Lab Lead · Ph.D. Candidate</sub> | **Dr. Lei Zou** 邹雷<br><sub>Scientific Advisor</sub> | **Dr. Zhengzhong Tu** 涂正中<br><sub>Technical Advisor</sub> | **Dr. Heng Cai** 蔡恒<br><sub>Technical Advisor</sub> |
 
 <sub>Most repositories here are forks of the originals under <a href="https://github.com/rayford295">rayford295</a> and are kept in sync. Each carries its own license.</sub>
 
