@@ -67,7 +67,7 @@ From what we read to what it became.
 | | [Bi-Temporal-StreetView](https://github.com/Rayford-AI/Bi-Temporal-StreetView) | CEUS 2025 | [Paper](https://doi.org/10.1016/j.compenvurbsys.2025.102335) |
 | | [DisasterVLP](https://github.com/Rayford-AI/DisasterVLP) | ICC 2025 · Best Student Paper | [Paper](https://doi.org/10.5194/ica-abs-10-310-2025) |
 | | [debris-estimate](https://github.com/Rayford-AI/debris-estimate) | In progress | |
-| Generative AI | [Sat2Street-DisasterGen](https://github.com/Rayford-AI/Sat2Street-DisasterGen) | IGARSS 2026 | [Paper](https://arxiv.org/abs/2603.20697) |
+| Generative AI | [Sat2Street-DisasterGen](https://github.com/Rayford-AI/Sat2Street-DisasterGen) | IGARSS 2026 | [Paper](https://doi.org/10.1109/IGARSS60577.2026.11730816) |
 | | [GenAI4Dresilience](https://github.com/Rayford-AI/GenAI4Dresilience) | CRC Press chapter | [Demo](https://rayford295.github.io/GenAI4Dresilience/) |
 | | PrepStreet | Extended abstract 2026 | [Demo](https://rayford295.github.io/PrepStreet/) |
 | Agents & LMMs | [ray-resilience](https://github.com/Rayford-AI/ray-resilience) | ACM SIGSPATIAL 2026 | [Demo](https://rayford295.github.io/ray-resilience/) |
@@ -85,7 +85,7 @@ From what we read to what it became.
 
 <table width="100%">
 <tr>
-<td align="center" valign="top" width="20%"><img src="./assets/people/yifan-yang.png" width="100" height="100" alt="Yifan Yang"><br><b>Yifan&nbsp;Yang</b><br>杨一帆<br><sub>Lab&nbsp;Lead · Ph.D.&nbsp;Candidate</sub></td>
+<td align="center" valign="top" width="20%"><img src="./assets/people/yifan-yang.png" width="100" height="100" alt="Yifan Yang"><br><b>Yifan&nbsp;Yang</b><br>杨一帆<br><sub>Lab&nbsp;Lead&nbsp;·&nbsp;Ph.D.&nbsp;Candidate</sub></td>
 <td align="center" valign="top" width="20%"><img src="./assets/people/lei-zou.png" width="100" height="100" alt="Lei Zou"><br><b>Dr.&nbsp;Lei&nbsp;Zou</b><br>邹雷<br><sub>Ph.D.&nbsp;Committee</sub></td>
 <td align="center" valign="top" width="20%"><img src="./assets/people/zhengzhong-tu.png" width="100" height="100" alt="Zhengzhong Tu"><br><b>Dr.&nbsp;Zhengzhong&nbsp;Tu</b><br>涂正中<br><sub>Ph.D.&nbsp;Committee</sub></td>
 <td align="center" valign="top" width="20%"><img src="./assets/people/heng-cai.png" width="100" height="100" alt="Heng Cai"><br><b>Dr.&nbsp;Heng&nbsp;Cai</b><br>蔡恒<br><sub>Ph.D.&nbsp;Committee</sub></td>
